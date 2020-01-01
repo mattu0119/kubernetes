@@ -48,7 +48,15 @@ Cloud Shell は様々なツールがインストールされている
 
 | 種類 | ツール |
 | ---- | ---- |
-| Linux ツール | Bash, zsh, sh, tmux, dig|
+| Linux ツール | Bash, zsh, sh, tmux, dig |
+| Azure ツール | Azure CLI, AzCopy, Service Fabric CLI |
+| テキストエディタ | vim, nano, emacs |
+| ソース管理 | ｜git |
+|ビルドツール| make, maven, npm, pip |
+|Containers| DockerCLI, Kubectl, Helm, DC/OS CLI|
+|データベース|MySQL クライアント, Postgress SQL クライアント, sqlcmd ユーティリティ, mssql-scripter|
+|その他|iPythin クライアント, Cloud Foundry CLI, Terraform, Ansible, Shef InSpec|
+
 
 
 
