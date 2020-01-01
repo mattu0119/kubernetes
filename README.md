@@ -45,8 +45,9 @@ az aks install-cli
 https://shell.azure.com/
 
 Cloud Shell は様々なツールがインストールされている
+
 | 種類 | ツール |
-| --- | --- |
+| ---- | ---- |
 | Linux ツール | Bash, zsh, sh, tmux, dig|
 
 
